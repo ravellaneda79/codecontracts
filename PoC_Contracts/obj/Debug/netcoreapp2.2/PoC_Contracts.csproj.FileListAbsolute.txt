@@ -1,0 +1,9 @@
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\bin\Debug\netcoreapp2.2\PoC_Contracts.deps.json
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\bin\Debug\netcoreapp2.2\PoC_Contracts.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\bin\Debug\netcoreapp2.2\PoC_Contracts.pdb
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\obj\Debug\netcoreapp2.2\PoC_Contracts.csprojAssemblyReference.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\obj\Debug\netcoreapp2.2\PoC_Contracts.csproj.CoreCompileInputs.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\obj\Debug\netcoreapp2.2\PoC_Contracts.AssemblyInfoInputs.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\obj\Debug\netcoreapp2.2\PoC_Contracts.AssemblyInfo.cs
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\obj\Debug\netcoreapp2.2\PoC_Contracts.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_Contracts\obj\Debug\netcoreapp2.2\PoC_Contracts.pdb

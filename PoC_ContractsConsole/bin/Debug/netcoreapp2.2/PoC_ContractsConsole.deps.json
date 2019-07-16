@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "PoC_ContractsConsole/1.0.0": {
+        "dependencies": {
+          "PoC_Contracts": "1.0.0"
+        },
+        "runtime": {
+          "PoC_ContractsConsole.dll": {}
+        }
+      },
+      "PoC_Contracts/1.0.0": {
+        "runtime": {
+          "PoC_Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PoC_ContractsConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PoC_Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

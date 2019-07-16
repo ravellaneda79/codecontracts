@@ -1,0 +1,13 @@
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_ContractsConsole.deps.json
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_ContractsConsole.runtimeconfig.json
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_ContractsConsole.runtimeconfig.dev.json
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_ContractsConsole.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_ContractsConsole.pdb
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_Contracts.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\bin\Debug\netcoreapp2.2\PoC_Contracts.pdb
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\obj\Debug\netcoreapp2.2\PoC_ContractsConsole.csproj.CoreCompileInputs.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\obj\Debug\netcoreapp2.2\PoC_ContractsConsole.AssemblyInfoInputs.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\obj\Debug\netcoreapp2.2\PoC_ContractsConsole.AssemblyInfo.cs
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\obj\Debug\netcoreapp2.2\PoC_ContractsConsole.csproj.CopyComplete
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\obj\Debug\netcoreapp2.2\PoC_ContractsConsole.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\PoC_ContractsConsole\obj\Debug\netcoreapp2.2\PoC_ContractsConsole.pdb

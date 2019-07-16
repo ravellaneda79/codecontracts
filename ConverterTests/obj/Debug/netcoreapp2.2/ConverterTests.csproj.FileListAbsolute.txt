@@ -1,0 +1,17 @@
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\ConverterTests.deps.json
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\ConverterTests.runtimeconfig.json
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\ConverterTests.runtimeconfig.dev.json
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\ConverterTests.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\ConverterTests.pdb
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\PoC_Contracts.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\bin\Debug\netcoreapp2.2\PoC_Contracts.pdb
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.csprojAssemblyReference.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.csproj.CoreCompileInputs.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.AssemblyInfoInputs.cache
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.AssemblyInfo.cs
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.csproj.CopyComplete
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.dll
+C:\Users\avellar1\source\repos\PoC_Contracts\ConverterTests\obj\Debug\netcoreapp2.2\ConverterTests.pdb
